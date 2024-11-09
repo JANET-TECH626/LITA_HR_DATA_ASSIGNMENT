@@ -79,6 +79,11 @@ Data was transformed to thoroughly clean, remove issues with data and increase c
 
 ### EXPLORATORY DATA ANALYSIS
 ---
+Some of 
+
+Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
+Average Age = AVERAGE('HR data'[Age])
+Age Sort = Table.TransformColumnTypes(#"Added Conditional Column5",{{"Job Satisfaction rating", type text}})
 
 
 ### DATA ANALYSIS
