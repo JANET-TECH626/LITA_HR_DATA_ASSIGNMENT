@@ -15,8 +15,6 @@ This repository showcases my completion of an assignment given by my facilitator
 
 [DATA TRANSFORMATION](#data-transformation)
 
-[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
-
 [DATA ANALYSIS](#data-analysis)
 
 [DATA VISUALIZATION](#data-visualization)
@@ -76,21 +74,14 @@ Data was transformed to thoroughly clean, remove issues with data and increase c
 2. Sorting: Sorted the dataset by the Date column to organize transactions chronologically.
 3. Created New Columns: Added a new column to have more calculations like Revenue
 
-
-### EXPLORATORY DATA ANALYSIS
----
-Some of 
-
-Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
-Average Age = AVERAGE('HR data'[Age])
-Age Sort = Table.TransformColumnTypes(#"Added Conditional Column5",{{"Job Satisfaction rating", type text}})
-
-
 ### DATA ANALYSIS
 ---
 Here are some lines of code, queries & some of the DAX expressions used during my analysis;
 
-```SQL
+```
+Attrition Rate = SUM('HR data'[Attrition Count]) /SUM('HR data'[Employee Count])
+Average Age = AVERAGE('HR data'[Age])
+Age Sort = Table.TransformColumnTypes(#"Added Conditional Column5",{{"Job Satisfaction rating", type text}})
 
 ``` 
 
