@@ -66,15 +66,15 @@ The dataset includes the following fields:
 ### DATA CLEANING AND PREPARATIONS
 ---
 During the initial phase of the data entry, the folowing actions were performed
-i.	Data quality was ensured by correcting any spelling errors, and addressing missing values.
-ii.	Standardization: Used find and replace to standardize certain fields
-iii.	Data import from Excel
+1. Data quality was ensured by correcting any spelling errors, and addressing missing values.
+2. Standardization: Used find and replace to standardize certain fields
+3. Data import from Excel
 
 ### DATA TRANSFORMATION
 Data was transformed to thoroughly clean, remove issues with data and increase column quality, column distribution and profile to 100%
-i.	Data Types and Formatting: This was done to ensure all data fields were assigned the correct data types, with numerical fields formatted as whole numbers, text as text and date fields set to date format.
-ii.	Sorting: Sorted the dataset by the Date column to organize transactions chronologically.
-iii.	Created New Columns: Added a new column to have more calculations like Revenue
+1. Data Types and Formatting: This was done to ensure all data fields were assigned the correct data types, with numerical fields formatted as whole numbers, text as text and date fields set to date format.
+2. Sorting: Sorted the dataset by the Date column to organize transactions chronologically.
+3. Created New Columns: Added a new column to have more calculations like Revenue
 
 
 ### EXPLORATORY DATA ANALYSIS
