@@ -19,6 +19,10 @@ This repository showcases my completion of an assignment given by my facilitator
 
 [DATA VISUALIZATION](#data-visualization)
 
+[INSIGHTS](#insights)
+
+[RECOMMENDATIONS](#recommendations)
+
 ### PROJECT OVERVIEW
 ---
 This project, which was part of the training conducted during the LITA Data Analysis class, presents the attrition rates of employee in an organization, The goal of the project was to address the issues of employee's attritons from the organization. Despite the organization"s activities of training, providing for and maintaining their staff, employees keep leaving the organization to other places. The analysis includes deriving various objectives, to understand better the underlying issues and to propose actionable recommendations that would reduce employee attritions from the organization.
@@ -85,3 +89,22 @@ Age Sort = Table.TransformColumnTypes(#"Added Conditional Column5",{{"Job Satisf
 
 ``` 
 
+### DATA VISUALIZATION
+---
+
+### INSIGHTS
+---
+•	The visual showed that:
+i.	Average age of Staff in the company is 37 years, which shows that the organization have more younger staff than the elderly ones.
+ii.	A total of 237 employees, which is 16% of the total employees, left the company over time. This shows that the organization lost 16% of their staff, in which resources like time and money were spent training. For such an amount of employee to leave the organization showed that they were greatly dissatisfied with the organization's policies of handling their staff. This explanation goes in line with the visuals, which showed that out of the 237-employee attrition count, a total of 66 employees were very dissatisfied with their jobs and 46 employees were dissatisfied with their jobs. This could be the reason why they left the organization
+iii.	Attrition count by gender showed that a total of 150 male and 87 females left the organization during the period, probably because the organization's policies favours the females than the males.
+iv.	Attrition based on Department showed that the attrition rate was highest in Life Science department, which had a total of 89 staff that left the company, followed by the Medical department with a total of 63 attrition counts. Human resource had the lowest attrition rate, with a count of 7 employee who left the organization.
+v.	Laboratory Technicians had the highest counts of very dissatisfaction rates, probably the reason why the Life science and medical field had the highest attrition rate compared to another department.
+vi.	Attrition based on age groups showed that age group 25-34 had the highest attrition count, which showed that the younger people were more dissatisfied with the organizational policies.
+Recommendations
+________________________________________
+The followings were recommended based on findings from the Data Analysis, which enabled us took informed decisions such as:
+1.	Policies should be amended: The Organization should amend their policies to favour all age groups and gender. The Executives should work on providing extracurricular activities like fitness coach or even work in line with a fitness Centre where their staff could enroll at a cheap rate for weekly fitness training, which would encourage more younger age groups to be satisfied and have great work like balance. All genders and age groups should be considered when allocating benefits or incentives
+2.	Sisters Companies should be researched: The HR department should work on researching on how other sister's companies with similar goals and objectives treats their employees, so they can work on satisfying their staff
+3.	Budget should be allocated to departments based on activities they have in line to do; this would reduce the number of unsatisfied staffs by departments
+4.	All departments should be treated fairly
