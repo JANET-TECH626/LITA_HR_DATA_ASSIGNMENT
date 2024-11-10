@@ -101,8 +101,9 @@ iii.	Attrition count by gender showed that a total of 150 male and 87 females le
 iv.	Attrition based on Department showed that the attrition rate was highest in Life Science department, which had a total of 89 staff that left the company, followed by the Medical department with a total of 63 attrition counts. Human resource had the lowest attrition rate, with a count of 7 employee who left the organization.
 v.	Laboratory Technicians had the highest counts of very dissatisfaction rates, probably the reason why the Life science and medical field had the highest attrition rate compared to another department.
 vi.	Attrition based on age groups showed that age group 25-34 had the highest attrition count, which showed that the younger people were more dissatisfied with the organizational policies.
-Recommendations
-________________________________________
+
+### RECOMMENDATION
+---
 The followings were recommended based on findings from the Data Analysis, which enabled us took informed decisions such as:
 1.	Policies should be amended: The Organization should amend their policies to favour all age groups and gender. The Executives should work on providing extracurricular activities like fitness coach or even work in line with a fitness Centre where their staff could enroll at a cheap rate for weekly fitness training, which would encourage more younger age groups to be satisfied and have great work like balance. All genders and age groups should be considered when allocating benefits or incentives
 2.	Sisters Companies should be researched: The HR department should work on researching on how other sister's companies with similar goals and objectives treats their employees, so they can work on satisfying their staff
